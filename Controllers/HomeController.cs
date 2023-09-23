@@ -24,5 +24,9 @@ namespace FutureValue.Controllers
             }
             return View(model);
         }
+        public IActionResult About()
+        {
+            return View();
+        }
     }
 }

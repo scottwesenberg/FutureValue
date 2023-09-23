@@ -26,3 +26,4 @@ C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT218WebAppDev\week3\Future
 C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT218WebAppDev\week3\FutureValue\obj\Debug\net6.0\FutureValue.pdb
 C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT218WebAppDev\week3\FutureValue\obj\Debug\net6.0\FutureValue.genruntimeconfig.cache
 C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT218WebAppDev\week3\FutureValue\obj\Debug\net6.0\ref\FutureValue.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT218WebAppDev\week3\FutureValue\bin\Debug\net6.0\libman.json

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "l+y8GJEycF5WnQp7OP8FrFHQrUB+LNIjRy9SltIhaKs=",
+  "Hash": "8oq+vgDOzRubclJpKE4ZSyk6CS32o7LtMT/fRiKm/9U=",
   "Source": "FutureValue",
   "BasePath": "_content/FutureValue",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\money.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\wesen\\OneDrive\\NMC - SCHOOLING\\NMC_CLASSES\\CIT218WebAppDev\\week3\\FutureValue\\wwwroot\\Images\\team.jpg",
+      "SourceId": "FutureValue",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wesen\\OneDrive\\NMC - SCHOOLING\\NMC_CLASSES\\CIT218WebAppDev\\week3\\FutureValue\\wwwroot\\",
+      "BasePath": "_content/FutureValue",
+      "RelativePath": "Images/team.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\team.jpg"
     },
     {
       "Identity": "C:\\Users\\wesen\\OneDrive\\NMC - SCHOOLING\\NMC_CLASSES\\CIT218WebAppDev\\week3\\FutureValue\\wwwroot\\js\\site.js",
